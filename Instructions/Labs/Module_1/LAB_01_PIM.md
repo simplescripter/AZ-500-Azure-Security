@@ -30,7 +30,7 @@ This lab requires a user cerating that will be used for PIM.
     ```powershell
     $PasswordProfile = New-Object -TypeName Microsoft.Open.AzureAD.Model.PasswordProfile
     ```
-    ```powershell 
+    ```powershell
     $PasswordProfile.Password = "Pa55w.rd"
     ```
     ```powershell
