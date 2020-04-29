@@ -9,7 +9,7 @@ Azure routes traffic between all subnets within a virtual network, by default. Y
 > * Create a route table
 > * Create a route
 > * Create a virtual network with multiple subnets
-> * Associate a route table to a subnet
+> * Associate a route table
 > * Create an NVA that routes traffic
 > * Deploy virtual machines (VM) into different subnets
 > * Route traffic from one subnet to another through an NVA
